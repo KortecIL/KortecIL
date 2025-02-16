@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/images/banner.svg" alt="Banner" />
+  <img src="https://images.pexels.com/photos/1534057/pexels-photo-1534057.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Banner" />
 </p>
 
 <h1 align="center">Hi there, I'm Kalev Korostishevski 👋</h1>
